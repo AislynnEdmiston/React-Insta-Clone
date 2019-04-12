@@ -1,0 +1,37 @@
+.post-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    max-width: 700px;
+    
+}
+
+.post-header {
+    display: flex;
+    
+}
+
+.user-icon-container {
+    width: 35px;
+}
+
+.user-icon {
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+}
+
+.username {
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+
+
+.post-img {
+    width: 100%;
+}
+
+.bold {
+    font-weight: bold;
+}
